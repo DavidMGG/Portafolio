@@ -4,21 +4,21 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Social Gallery",
             description: "Social Gallery es una plataforma diseñada para compartir imágenes de manera intuitiva y dinámica.",
             modalDescription: 'Social Gallery es una red social donde los usuarios registrados pueden subir imágenes a sus perfiles. Utilizando Google Auth es posible registrarse desde una cuenta existente de Google. Utilizando un Firewall para verificar el registro. \n Desarrollada con las siguientes tecnologías: \n\n Frontend: React JS \n Backend: Node.js y Express.js \n Base de Datos: MongoDB Cloud \n Servicios: Firebase y Google Auth \n\n GitHub: <a href="https://github.com/DavidMGG/RedSocialDW.git" target="_blank" >Social Gallery Project</a>',
-            image: "/img/social-network.png",
+            image: "https://firebasestorage.googleapis.com/v0/b/krolcakes-3b319.appspot.com/o/portafolio%2Fsocial-network.png?alt=media&token=8f620ecc-7bef-4b42-b607-887204d1618e",
             videoLink: "https://drive.google.com/file/d/1yf8RG0fDgK2uu83JEDa6Icd6Ls6eVWUp/view?usp=sharing",
         },
         {
             title: "Utilidades",
             description: "Desarrollado en Python, ofrece funcionalidades como: Extraccion de Metadatos, Compresion de Videos y Descargar contenido de YouTube (Audio/Video).",
             modalDescription: 'Es una aplicación de línea de comandos diseñada para realizar diversas tareas multimedia, como extracción de metadatos, compresión de videos y descarga de contenido desde internet. \n Desarrollada con las siguientes tecnologias: \n\n Python \n FFmpeg: Utilizado para la compresión de videos \n yt-dlp: Biblioteca para descargar contenido multimedia \n pymediainfo: Permite extraer metadatos de archivos de audio y video. \n\n GitHub: <a href="https://github.com/DavidMGG/utilidades.git" target="_blank" >Utilidades Project</a>', 
-            image: "/img/cmd.jpg",
+            image: "https://firebasestorage.googleapis.com/v0/b/krolcakes-3b319.appspot.com/o/portafolio%2Fcmd.jpg?alt=media&token=0bb301d5-f64e-45b9-9476-d01d03897553",
             videoLink: "https://drive.google.com/file/d/1nTqNU4AF10Tb_Ml_KLKbQvd_sFC3lywy/view?usp=sharing",
         },
         {
             title: "Sistema para Pasteleria",
             description: "Implementado en equipo, sistema a la medida enfocado en el agendamiento, cotizacion y facturacion.",
             modalDescription: 'Como parte del curso Análisis de Sistemas II, desarrollamos un sistema para optimizar la gestión operativa de K-rol’s Cakes. Este programa facilita el control eficiente de pedidos, inventario y finanzas, brindando herramientas clave para mejorar la administración del negocio. \n Desarrollado con las siguientes tecnologias: \n\n Backend: C# con .NET \nBase de Datos: MySQL \nFrontend: Angular \n Infraestructura: AWS - Instancia EC2 \n\nVideo: <a href="https://drive.google.com/file/d/1m1Sp0WV8WWE51UhC0PeH6NCP6ItuMaJN/view?usp=sharing" target="_blank" >Agradecimiento K-rol’s Cakes</a>',
-            image: "/img/panaderia.jpg",
+            image: "https://firebasestorage.googleapis.com/v0/b/krolcakes-3b319.appspot.com/o/portafolio%2Fpanaderia.jpg?alt=media&token=004e7dfe-4f00-4a23-8931-9ac0418aaa3b",
             videoLink: "https://drive.google.com/file/d/1dVINzlU1hUZfqttaaP8wPL5LEr1EeZg9/view?usp=sharing",
         }
     ];
